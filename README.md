@@ -10,9 +10,9 @@ Codes and comments can be seen in the notebooks. Tutorials for setting up jupyte
 - Network-reduced-normalized-final.ipynb (*run major analysis*) 
 - Network-reduced-normalized-sensitivity.ipynb (*run sensitivity analysis on removing edges of the network*)
 
-## 2. Spreadsheet files
+## 2. datasets folder
 - dataset.xlsx (*the original dataset used for analysis)
 All other excel files are intermediate datasets generated during data processing and analysis
 
-## 3. Figures
+## 3. figures folder
 All png and svg files are generated figures during analysis. Many figures in the paper are adjusted in inkscape software based on these files.  

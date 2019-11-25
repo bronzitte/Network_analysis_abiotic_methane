@@ -1,4 +1,4 @@
-# Network_analysis_abiotic_methane
+# Network analysis for abiotic methane production during experiments
 Jupyter notebooks, datasets and all generated figures used in a paper. Paper is currently under review. Once paper is accepted, all related information will be added here.
 
 If you have any questions, please [send me an email](mailto:fanghuang007@gmail.com).
